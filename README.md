@@ -1,4 +1,4 @@
-# Age Proof Packages
+# Age Proof Verifier Packages
 
 This repository hosts the **compiled SDK artifacts** for the Age Proof Verifier product. It provides public access to iOS packages for integration into mobile applications.
 
