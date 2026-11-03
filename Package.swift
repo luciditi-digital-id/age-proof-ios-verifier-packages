@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AgeProofVerifier",
-            url: "https://github.com/luciditi-digital-id/age-proof-ios-verifier-packages/releases/download/v1.2.1-beta.4672/ageProofVerifier.xcframework.zip",
-            checksum: "4564dd4d1a26f6d81f346f81d60949f22c4534f6b822faaf903c24fa27c78375"
+            url: "https://github.com/luciditi-digital-id/age-proof-ios-verifier-packages/releases/download/v1.2.1-beta.4682/ageProofVerifier.xcframework.zip",
+            checksum: "481dd9c8d011cb9eecaed9e7489748c2ce7632664eef87b4112791e8341cc3bd"
         )
     ]
 )
